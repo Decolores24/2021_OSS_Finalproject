@@ -14,4 +14,4 @@ Just input 'gcc Social_ID_Number_Interpretor.c -o [execution_file_name]' in cmd,
 
 ### End
 This is end of this repository.\
-The explation video is here.\
+The explation video is here.
