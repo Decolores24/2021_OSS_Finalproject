@@ -7,10 +7,10 @@ For environment setting, you only need is gcc complier.
 
 ## How it works
 There was some rules that to generate social ID number before October 2020.\
-So in the internet there are information to know the mean of back digits of soical ID number.\
+So in the internet there are information to know the mean of back digits of soical ID number.
 
 ## How to use
-Just input 'gcc Social_ID_Number_Interpretor.c -o [execution_file_name]' in cmd, terminal, or powershell, etc.\
+Just input 'gcc Social_ID_Number_Interpretor.c -o [execution_file_name]' in cmd, terminal, or powershell, etc.
 
 ### End
 This is end of this repository.\
