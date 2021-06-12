@@ -141,16 +141,16 @@ void print_sex_and_year(int num){
         printf("You are a woman and borned between 1800 ~ 1899.\n");
         break;
     case 5:
-        printf("You are a man and borned between 1900 ~ 1999.\n\tAlso, you are foreinger.\n");
+        printf("You are a man and borned between 1900 ~ 1999.\n\tAlso, you are a foreinger.\n");
         break;
     case 6:
-        printf("You are a woman and borned between 1900 ~ 1999.\n\tAlso, you are foreinger.\n");
+        printf("You are a woman and borned between 1900 ~ 1999.\n\tAlso, you are a foreinger.\n");
         break;
     case 7:
-        printf("You are a man and borned between 2000 ~ 2099.\n\tAlso, you are foreinger.\n");
+        printf("You are a man and borned between 2000 ~ 2099.\n\tAlso, you are a foreinger.\n");
         break;
     case 8:
-        printf("You are a woman and borned between 2000 ~ 2099.\n\tAlso, you are foreinger.\n");
+        printf("You are a woman and borned between 2000 ~ 2099.\n\tAlso, you are a foreinger.\n");
         break;
     default:
         printf("Wrong input or maybe you are not korean.\n");
