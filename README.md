@@ -3,7 +3,10 @@
 # Social ID number interpretor for korean.
 
 ## How to start
-For environment setting, you only need is gcc complier.
+For environment setting, you only need is gcc complier.\
+* Rasberry Pi `sudo apt-get install gcc`
+* Window OS [Go to this link](https://copycoding.tistory.com/285)
+* Mac OS [Go to this link](https://m.blog.naver.com/cy2003k/222061843986)
 
 ## How it works
 There was some rules that to generate social ID number before October 2020.\
