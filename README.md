@@ -3,7 +3,7 @@
 # Social ID number interpretor for korean.
 
 ## How to start
-For environment setting, you only need is gcc complier.\
+For environment setting, you only need is gcc complier.
 * Rasberry Pi and Linux OS `sudo apt-get install gcc` if you want to get more information, [go to this link](https://byd0105.tistory.com/9)
 * Window OS [Go to this link](https://copycoding.tistory.com/285)
 * Mac OS [Go to this link](https://m.blog.naver.com/cy2003k/222061843986)
