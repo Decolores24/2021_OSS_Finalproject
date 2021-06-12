@@ -4,7 +4,7 @@
 
 ## How to start
 For environment setting, you only need is gcc complier.\
-* Rasberry Pi `sudo apt-get install gcc`
+* Rasberry Pi and Linux OS `sudo apt-get install gcc`
 * Window OS [Go to this link](https://copycoding.tistory.com/285)
 * Mac OS [Go to this link](https://m.blog.naver.com/cy2003k/222061843986)
 
